@@ -38,4 +38,5 @@ The program can be organized into different sections
 ### Execution
 `mpiexec -n (# of processors) problem2.out`
 ## Results
-![Image of a graph](https://github.com/Karen-W-2002/circuit-mpi/blob/main/Graph.png)
+![Image of a graph](https://github.com/Karen-W-2002/Monte-Carlo-mpi/blob/main/Graph.png)
+
